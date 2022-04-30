@@ -1,0 +1,27 @@
+body{
+  background-color: #C4DDFF;
+}
+
+h1 {
+  color: #38A3A5;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:#005555;
+  border-width: 10px;
+  width: 5%;
+
+}
+table{
+  border-style: dotted;
+  margin: auto;
+}
+
+
+/*########################### id and class############*/
+
+#center{
+  text-align: center;
+  padding: 10px;
+}
