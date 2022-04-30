@@ -14,8 +14,12 @@ hr{
 
 }
 table{
-  border-style: dotted;
   margin: auto;
+}
+td{
+  border-style: dotted;
+  padding: 2px;
+  border: 2px solid;
 }
 
 
