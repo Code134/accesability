@@ -21,6 +21,9 @@ td{
   padding: 2px;
   border: 2px solid;
 }
+img{
+   width:240px;
+}
 
 
 /*########################### id and class############*/
